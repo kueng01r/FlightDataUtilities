@@ -48,5 +48,5 @@ MAX_SPEED_SERIES_MAP = {}
 
 MAX_SPEED_FAMILY_MAP = {
     'B737 Classic': (MaximumSpeed_Fixed, (340, 0.82)),
-    'Falcon 7X': (MaximumSpeed_Fixed, (370,0.9)),
+    'Falcon': (MaximumSpeed_Fixed, (370,0.9)),
 }
